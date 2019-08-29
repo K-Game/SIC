@@ -20,6 +20,8 @@ enum {
 	Set7,
 	Set8,
 	Set9,
+	Set10,
+	Sit11,
 };
 
 void set1() {

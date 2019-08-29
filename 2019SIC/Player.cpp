@@ -5,7 +5,6 @@
 #include "shot.h"
 
 void Player::Init() {
-
 	getchar;
 }
 
