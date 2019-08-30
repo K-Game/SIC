@@ -6,6 +6,7 @@
 
 void Player::Init() {
 	getchar;
+
 }
 
 
